@@ -1,4 +1,4 @@
---After downloading the files and extracting them into your injector workspace folder execute the next code:
+--After downloading the files go into the folder: "newproject-main", then extract the folder: "argyyy#1355" into your injector workspace and excute this code:
 ```lua
 loadfile("argyyy#1355/Source/UI.txt")()
 ```
