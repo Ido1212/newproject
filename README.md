@@ -1,3 +1,6 @@
+--After downloading the files and extracting them into your injector workspace folder execute the next code:
+loadfile("argyyy#1355/Source/UI.txt")()
+--[[
 This script was made by argyyy#1355
 
 Changing anything (Code/Folders) Will make the script not work
@@ -19,3 +22,4 @@ Please don't message me about any shit you want in it, only bugs
 Dming me for stupid reason will make me block you cause no speds in dms!
 
 And yeah thats it
+--]]
