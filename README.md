@@ -12,6 +12,8 @@ Code isn't fully made by me but the main of it is made by me
 
 It's a complete legit gaming chair it might have a few features which aren't legit but it's your choice what to use
 
+It should drop fps because I didn't put effort in optimizing it, low people servers should run fine
+
 Please don't message me about any shit you want in it, only bugs
 
 Dming me for stupid reason will make me block you cause no speds in dms!
