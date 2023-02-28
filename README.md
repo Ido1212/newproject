@@ -1,5 +1,7 @@
 --After downloading the files and extracting them into your injector workspace folder execute the next code:
+```lua
 loadfile("argyyy#1355/Source/UI.txt")()
+```
 --[[
 This script was made by argyyy#1355
 
